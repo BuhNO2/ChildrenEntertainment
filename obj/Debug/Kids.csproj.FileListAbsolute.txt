@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Kids\obj\Debug\Kids.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Kids\obj\Debug\WindowsFormsApp6.AuthForm.resources
+C:\Users\User\source\repos\Kids\obj\Debug\Kids.Form1.resources
+C:\Users\User\source\repos\Kids\obj\Debug\WindowsFormsApp6.MenuForm.resources
+C:\Users\User\source\repos\Kids\obj\Debug\Kids.Properties.Resources.resources
+C:\Users\User\source\repos\Kids\obj\Debug\WindowsFormsApp6.TittleForm.resources
+C:\Users\User\source\repos\Kids\obj\Debug\WindowsFormsApp6.UsersForm.resources
+C:\Users\User\source\repos\Kids\obj\Debug\Kids.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Kids\obj\Debug\Kids.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kids\obj\Debug\Kids.exe.config

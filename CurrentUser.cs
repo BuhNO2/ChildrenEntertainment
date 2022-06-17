@@ -1,11 +1,11 @@
-﻿using System;
+﻿using Org.BouncyCastle.Crypto.Agreement.Srp;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace Kids
+namespace WindowsFormsApp6
 {
     class CurrentUser
     {
@@ -13,9 +13,10 @@ namespace Kids
         public string Name { get; set; }
         public string Login { get; set; }
         public string Role { get; set; }
+
         public void Clear()
         {
-            ID = 0;
+            ID =0;
             Name = "";
             Login = "";
             Role = "";
@@ -28,6 +29,5 @@ namespace Kids
             Login = login;
             Role = role;
         }
-
     }
 }
